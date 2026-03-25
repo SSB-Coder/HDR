@@ -1,6 +1,5 @@
 streamlit
 streamlit-drawable-canvas
-opencv-python
+opencv-python-headless
 numpy
 joblib
-scikit-learn
